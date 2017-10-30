@@ -6,7 +6,7 @@ A list of awesome libraries and resources.
 - [PHP](#php)
 - [Resources](#resources)
 - [Tools](#tools)
-  - [Chrome extensions]
+  - [Chrome extensions](#chrome-extensions)
     
 ## PHP
 
@@ -24,5 +24,7 @@ A list of awesome libraries and resources.
 * [Postman](https://www.getpostman.com/)
 
 ### Chrome extensions
-  * [XPath Helper]
+  * [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl)
+  * [JSON Editor](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj)
+  * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 
