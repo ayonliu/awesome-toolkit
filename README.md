@@ -21,3 +21,5 @@ A list of awesome libraries and resources.
 ## Tools
 
 * [Postman](https://www.getpostman.com/)
+  * [XPath Helper]
+
