@@ -24,7 +24,7 @@ A list of awesome libraries and resources.
 
   * [游戏|Google Developers](https://developers.google.com/games/)
   * [HTML5 Game Development](http://html5gamedevelopment.com/)
-  * [three.js](https://threejs.org/)JavaScript 3D library
+  * [three.js](https://threejs.org/)  JavaScript 3D library
   * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
 
 ## Tools
