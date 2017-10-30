@@ -5,6 +5,7 @@ A list of awesome libraries and resources.
 ## Table of Contents
 - [PHP](#php)
 - [Resources](#resources)
+  - [Web game](#web-game)
 - [Tools](#tools)
   - [Chrome extensions](#chrome-extensions)
     
@@ -19,15 +20,23 @@ A list of awesome libraries and resources.
 * [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 * [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
+### Web game
+
+  * [游戏|Google Developers](https://developers.google.com/games/)
+  * [HTML5 Game Development](http://html5gamedevelopment.com/)
+  * [three.js](https://threejs.org/)JavaScript 3D library
+  * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
+
 ## Tools
 
 * [Postman](https://www.getpostman.com/)
 
 ### Chrome extensions
+
   * [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl)
   * [JSON Editor](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj)
   * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
   * [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
   * [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-  * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
+
 
