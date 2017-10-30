@@ -24,8 +24,10 @@ A list of awesome libraries and resources.
 
   * [游戏|Google Developers](https://developers.google.com/games/)
   * [HTML5 Game Development](http://html5gamedevelopment.com/)
-  * [three.js](https://threejs.org/)  JavaScript 3D library
   * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
+  * [three.js](https://threejs.org/)  JavaScript 3D library
+  * [PixiJS](http://www.pixijs.com/)  The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+  * [Phaser](https://phaser.io/) is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 
 
 ## Tools
 
