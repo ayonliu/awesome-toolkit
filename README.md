@@ -29,5 +29,5 @@ A list of awesome libraries and resources.
   * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
   * [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
   * [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-  * [Web游戏开发](https://developer.mozilla.org/zh-CN/docs/Games)
+  * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
 
