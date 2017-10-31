@@ -24,6 +24,8 @@ A list of awesome libraries and resources.
 
   * [游戏|Google Developers](https://developers.google.com/games/)
   * [HTML5 Game Development](http://html5gamedevelopment.com/)
+  * [HTML5 Game Development-Udacity
+](https://www.youtube.com/watch?v=i3n-BZ2UHO0&list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225)
   * [Web Game development](https://developer.mozilla.org/zh-CN/docs/Games)
   * [three.js](https://threejs.org/)  JavaScript 3D library
   * [PixiJS](http://www.pixijs.com/)  The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
