@@ -13,6 +13,7 @@ A list of awesome libraries and resources.
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/) - A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!
 * [The DomCrawler Component](https://symfony.com/doc/current/components/dom_crawler.html) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+* [Dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter (PHP5) 
 
 ## Resources
 
