@@ -6,6 +6,7 @@ A list of awesome libraries and resources.
 - [PHP](#php)
 - [Resources](#resources)
   - [Web game](#web-game)
+  - [Game](#game)
 - [Tools](#tools)
   - [Chrome extensions](#chrome-extensions)
     
@@ -32,6 +33,10 @@ A list of awesome libraries and resources.
   * [three.js](https://threejs.org/)  JavaScript 3D library
   * [PixiJS](http://www.pixijs.com/)  The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
   * [Phaser](https://phaser.io/) is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 
+
+### Game
+
+  *[ozz-animation](https://github.com/guillaumeblanc/ozz-animation/) Open source c++ skeletal animation library and toolset 
 
 ## Tools
 
