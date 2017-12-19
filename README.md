@@ -38,6 +38,7 @@ A list of awesome libraries and resources.
 
   * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation/) Open source c++ skeletal animation library and toolset 
   * [bgfx](https://github.com/bkaradzic/bgfx) Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+  * [IUP](http://iup.sourceforge.net/) Portable User Interface
 
 ## Tools
 
