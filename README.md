@@ -36,7 +36,7 @@ A list of awesome libraries and resources.
 
 ### Game
 
-  *[ozz-animation](https://github.com/guillaumeblanc/ozz-animation/) Open source c++ skeletal animation library and toolset 
+  * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation/) Open source c++ skeletal animation library and toolset 
 
 ## Tools
 
